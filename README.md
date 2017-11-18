@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## ngMart
 
-You can use the [editor on GitHub](https://github.com/NeelSayarDeb/ngMart/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a github demo project for an fake eCommerce site named ngMart
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The code here uses the new Angular framework to make this site come to life. 
 
-### Markdown
+### Tools Used
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Node JS
+- Angular CLI
+- Git
+- Visual Studio Code
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+*** How to Run this Code ***
 
-- Bulleted
-- List
+- Download the Project
+- Open your CMD to that Directory
+- Run the two commands 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+  npm install
+  ng serve
+```  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### About Me
 
-### Jekyll Themes
+I am a Front end Developer Professionally. I love to develop new and beautiful Websites. I am also skilled in UX development and a little in Machine Learning and Operation Research. My hobbies are Gaming, Music and AstroPhysics. I am a big Manchester United Fan and a big time fan of Metal. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NeelSayarDeb/ngMart/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Follow me on my socials:
+
+### [Facebook](https://www.facebook.com/Phoenixreloaded)
+### [Linkedin](https://www.linkedin.com/in/neelsayar/)
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with the code? Contact me at deb.neelsayar@gmail.com. I will get back to you ASAP. Please mention ngMart in subject line. 
